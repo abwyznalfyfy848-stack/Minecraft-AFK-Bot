@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "rmadan-T.aternos.me:13043",
+  "serverPort": 13043,
   "botUsername": "MyBot",
   "botChunk": 1
 }
